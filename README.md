@@ -18,4 +18,3 @@ This project involves web scraping data from Flipkart using Python libraries suc
 
 ---
 
-Let me know if you'd like me to customize this further or add additional details!
